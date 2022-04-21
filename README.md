@@ -1,13 +1,12 @@
 # Depronto Machine Test
 
-> Create a blog by using the following APIs.
-> Display blog post contents as Cards on front page.
-> On Click of any card, open that blog post on a new page and show all the comments of that blog.
-> Create a To-do page and show all the Todo's in a table with filter/Sort.
-[Blog posts](https://jsonplaceholder.typicode.com/posts) 
+> Create a blog by using the following APIs. [Blog posts](https://jsonplaceholder.typicode.com/posts) 
 [Single Blog by ID](https://jsonplaceholder.typicode.com/posts/1) 
 [Comments](https://jsonplaceholder.typicode.com/comments) 
 [To-dos](https://jsonplaceholder.typicode.com/todos) 
+> Display blog post contents as Cards on front page.
+> On Click of any card, open that blog post on a new page and show all the comments of that blog.
+> Create a To-do page and show all the Todo's in a table with filter/Sort.
 
 ### Screenshots
 Screenshots are in the Output Folder
