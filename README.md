@@ -8,6 +8,9 @@
 > On Click of any card, open that blog post on a new page and show all the comments of that blog.
 > Create a To-do page and show all the Todo's in a table with filter/Sort.
 
+## Live
+The application is deployed on heruko. [Web App Link](https://depronto-task-blogpage.herokuapp.com/)
+
 ### Screenshots
 Screenshots are in the Output Folder
 
